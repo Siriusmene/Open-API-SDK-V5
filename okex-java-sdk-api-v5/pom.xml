@@ -81,7 +81,7 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-core</artifactId>
-            <version>1.5.1</version>
+            <version>1.14.3</version>
         </dependency>
 
         <dependency>
@@ -252,11 +252,11 @@
             <artifactId>org.everit.json.schema</artifactId>
             <version>1.9.2</version>
         </dependency>
-        <dependency >
-            <groupId >com.sun.mail</groupId >
-            <artifactId >javax.mail</artifactId >
-            <version >1.6.0</version >
-        </dependency >
+        <dependency>
+            <groupId>com.sun.mail</groupId>
+            <artifactId>javax.mail</artifactId>
+            <version>1.6.0</version>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/javax.activation/activation -->
         <dependency>
             <groupId>javax.activation</groupId>
@@ -301,7 +301,7 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-core</artifactId>
-            <version>1.5.1</version>
+            <version>1.14.3</version>
         </dependency>
 
     </dependencies>
