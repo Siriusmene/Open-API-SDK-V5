@@ -32,7 +32,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.68</version>
+            <version>1.2.83_noneautotype</version>
         </dependency>
         <dependency>
             <groupId>net.sf.json-lib</groupId>
