@@ -81,7 +81,7 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-core</artifactId>
-            <version>1.5.1</version>
+            <version>1.14.3</version>
         </dependency>
 
         <dependency>
@@ -301,7 +301,7 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-core</artifactId>
-            <version>1.5.1</version>
+            <version>1.14.3</version>
         </dependency>
 
     </dependencies>
